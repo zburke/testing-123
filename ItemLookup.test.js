@@ -1,0 +1,3 @@
+describe('Item Lookup component', () => {
+
+});
